@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on website projects, video&photography editing
 - 📫 Email: le.ovidiu@yahoo.com ; IG: @nite._.owl ; FB: /lehadus.ovid .
 - 😄 Check out my artistic side on IG: /l.ovidiu.foto FB: /LOVIDIUFOTO ; YT: /@N98Owl .
-- ⚡ Fun fact: ...
+- ⚡ Codepen: https://codepen.io/n8owl
 
 <!---
 Le-Ovid/Le-Ovid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
