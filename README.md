@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on website projects, video&photography editing
 - 📫 Email: le.ovidiu@yahoo.com ; IG: @nite._.owl ; FB: /lehadus.ovid .
-- 😄 Check out my artistic side on FB: /LOVIDIUFOTO ; YT: /@N98Owl .
+- 😄 Check out my artistic side on IG: /l.ovidiu.foto FB: /LOVIDIUFOTO ; YT: /@N98Owl .
 - ⚡ Fun fact: ...
 
 <!---
