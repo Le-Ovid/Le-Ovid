@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Le-Ovid
+- 👋 Hi, I’m Ovidiu
 - 👀 I’m interested in Metal Music, Motorcycles, Camping & Arts
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on website projects, video&photography editing
